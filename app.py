@@ -52,7 +52,7 @@ with col1:
     st.markdown('''<div style='text-align:center;' class="bordered-container">
                     <h3>Crop Recommendation System</h3>
                     <img src='https://media.licdn.com/dms/image/D5612AQEx2AMyErNfxQ/article-cover_image-shrink_600_2000/0/1710648344420?e=2147483647&v=beta&t=5E0GoftZHK9Bz81pwUehZ0YveQ0vwS7pHxzZKIJepwk' alt='Image' style='width:300px;height:200px;' caption="Column 2 Image">
-                    <figcaption>Figure caption goes here.</figcaption>
+                    <figcaption>A Crop Recommendation System leverages soil data and climate conditions to suggest optimal crops for farmers, enhancing yield, sustainability, and profitability with data-driven agricultural practices.</figcaption>
                     </div>
                 ''', unsafe_allow_html=True)
     st.markdown(styled_button1_html, unsafe_allow_html=True)
@@ -66,7 +66,7 @@ with col2:
     st.markdown('''<div style='text-align:center;' class="bordered-container">
                     <h3>Plant Disease Classifier <br></h3>
                     <img src='https://i.ytimg.com/vi/zcq5aw9t-Ds/maxresdefault.jpg' alt='Image' style='width:300px;height:200px;' caption="Column 2 Image">
-                    <figcaption>Figure caption goes here.</figcaption>
+                    <figcaption>The Plant Disease Classifier uses advanced machine learning to accurately identify plant diseases from images, providing crucial early detection and facilitating timely, effective treatment for healthier crops.</figcaption>
                     </div>
                 ''', unsafe_allow_html=True)
     st.markdown(styled_button2_html, unsafe_allow_html=True)
