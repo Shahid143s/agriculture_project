@@ -2,7 +2,7 @@
 styled_button1_html = """
 <div style="text-align: center;">
     <a target="_self" href="https://www.bvec.ac.in">
-        <button class="button-24" role="button">Project 1</button>
+        <button class="button-24" role="button">Open Crop Recommendation System</button>
     </a>
 </div>
 <style>
@@ -45,7 +45,7 @@ styled_button1_html = """
 styled_button2_html = """
 <div style="text-align: center;">
     <a target="_self" href="https://www.bvec.ac.in">
-        <button class="button-24" role="button">Project 2</button>
+        <button class="button-24" role="button">Open Plant Disease Classifier</button>
     </a>
 </div>
 <style>

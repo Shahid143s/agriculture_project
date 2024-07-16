@@ -56,12 +56,11 @@ with col1:
                     </div>
                 ''', unsafe_allow_html=True)
     st.markdown(styled_button1_html, unsafe_allow_html=True)
-
+    st.markdown("<br>", unsafe_allow_html=True)
+    st.markdown("<br>", unsafe_allow_html=True)
+    
     
 
-st.markdown("<br>", unsafe_allow_html=True)
-st.markdown('<hr style="border-top: 2px solid #FF4742;">', unsafe_allow_html=True)
-st.markdown("<br>", unsafe_allow_html=True)
 # Column 2
 with col2:
     st.markdown('''<div style='text-align:center;' class="bordered-container">
@@ -71,6 +70,8 @@ with col2:
                     </div>
                 ''', unsafe_allow_html=True)
     st.markdown(styled_button2_html, unsafe_allow_html=True)
+    st.markdown("<br>", unsafe_allow_html=True)
+    st.markdown("<br>", unsafe_allow_html=True)
     
 
 
