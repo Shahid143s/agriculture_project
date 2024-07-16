@@ -1,6 +1,8 @@
 # Agriculture Tools using Machine Learning
 
-## For Project 2:
+## Project for Academic Internship
+
+
 ## Installation
 Create Environment using Conda:
 
