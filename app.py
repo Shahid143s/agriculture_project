@@ -23,10 +23,10 @@ with st.sidebar:
         {"name": "Shahid Anowar", "img_url": "https://i.ibb.co/6m9Gt2s/IMG20231128135521-modified.png"},
         {"name": "Joyosmita Paul", "img_url": "https://i.ibb.co/nmJkh8K/Whats-App-Image-2024-07-16-at-7-47-30-PM-modified.png"},
         {"name": "Abhisekh Pandit", "img_url": "https://i.ibb.co/vvz18jp/Whats-App-Image-2024-07-16-at-2-24-20-PM-modified.png"},
-        {"name": "Prem Kr Sah", "img_url": "https://i.ibb.co/qjNqCwF/Picsart-24-07-16-13-37-07-577.png"},
+        {"name": "Prem Kr Sah", "img_url": "https://i.ibb.co/935nGLT/imageedit-1-7430777653-modified.png"},
         {"name": "Manas Seal", "img_url": "https://i.ibb.co/Y30fxQ7/IMG-20240715-173204-modified.png"}
     ]
-
+#https://i.ibb.co/qjNqCwF/Picsart-24-07-16-13-37-07-577.png
     # Add members to columns
     for i, member in enumerate(members):
         col = col1 if i % 2 == 0 else col2
