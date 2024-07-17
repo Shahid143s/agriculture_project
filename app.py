@@ -20,12 +20,14 @@ with st.sidebar:
 
     # Define member information
     members = [
-        {"name": "Shahid Anowar", "img_url": "https://i.ibb.co/D7G3dWk/IMG-20240717-132015.png"},
+        {"name": "Shahid Anowar", "img_url": "https://i.ibb.co/RNM8SVf/IMG20231128135521-modified-modified.png"},
         {"name": "Joyosmita Paul", "img_url": "https://i.ibb.co/SJ82dGh/Whats-App-Image-2024-07-16-at-7-47-30-PM-modified-modified.png"},
         {"name": "Abhisekh Pandit", "img_url": "https://i.ibb.co/vvz18jp/Whats-App-Image-2024-07-16-at-2-24-20-PM-modified.png"},
         {"name": "Prem Kr Sah", "img_url": "https://i.ibb.co/935nGLT/imageedit-1-7430777653-modified.png"},
         {"name": "Manas Seal", "img_url": "https://i.ibb.co/Sw24jZ7/IMG-20240715-173204-modified-modified.png"}
     ]
+#https://i.ibb.co/RNM8SVf/IMG20231128135521-modified-modified.png -BW
+#https://i.ibb.co/D7G3dWk/IMG-20240717-132015.png - Field
 #https://i.ibb.co/6m9Gt2s/IMG20231128135521-modified.png - Green
 #https://i.ibb.co/qjNqCwF/Picsart-24-07-16-13-37-07-577.png - Wall
     # Add members to columns
