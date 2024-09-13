@@ -1,7 +1,7 @@
 # HTML and CSS for styled button using st.markdown()
 styled_button1_html = """
 <div style="text-align: center;">
-    <a target="_self" href="https://www.bvec.ac.in">
+    <a target="_self" href="https://crop-recommendation-sys.streamlit.app">
         <button class="button-24" role="button">Open Crop Recommendation System</button>
     </a>
 </div>
@@ -44,7 +44,7 @@ styled_button1_html = """
 # HTML and CSS for styled button using st.markdown()
 styled_button2_html = """
 <div style="text-align: center;">
-    <a target="_self" href="https://www.bvec.ac.in">
+    <a target="_self" href="https://huggingface.co/spaces/ShahidML/PlantDiseaseClassifier">
         <button class="button-24" role="button">Open Plant Disease Classifier</button>
     </a>
 </div>
